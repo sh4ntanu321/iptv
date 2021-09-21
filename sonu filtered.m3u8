@@ -1,0 +1,1295 @@
+#EXTM3U
+#EXTINF:-1 group-title="SONU IPTV Sports" tvg-logo="https://i.imgur.com/z1LDOcz.png",Fox Sports 501 HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
+#EXTINF:-1 group-title="SONU IPTV Sports" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Eurosport-logo.png",Eurosport Hd 1
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV SonyLIV FHD-India Only" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU",Star movies select hd
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV SonyLIV" tvg-logo="https://i.imgur.com/s1jdNAS.png",Sony Liv Feed
+https://pubads.g.doubleclick.net/ssai/event/OTz3QN8XQ7KzSvdh3uSfKw/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-hd-logo-300x300.jpg",MTV Beats HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00%3A1A%3A79%3A3A%3A6B%3A91&ip=202.134.10.142&magic_server=MAIN_MP&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel",Sangeet Bangla New
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel",Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOQR2OPTbdBPQPAVgzxfrudFLe4Fs0zTOKIyqaIBpsYiPtgXkPzHcOMeRm_duJ4D5T8A&usqp=CAU",8XM
+http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel",JALWA
+http://221.120.204.4/JALWA-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby%3Aiptvcat.com=&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel",Dhoom Music
+http://103.205.133.19/hls/dhoommusic.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel",Zing BDIX
+http://103.205.133.19/hls/zing.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel" tvg-logo="https://w7.pngwing.com/pngs/986/104/png-transparent-9xm-9x-media-music-television-live-music-miscellaneous-television-text.png",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?token=RK&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Music Channel" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-hd-logo-300x300.jpg",MTV Beats HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 group-title="SONU IPTV Music Channel",M Tunes +
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel",Sangeet Bangla New
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel",9x Jalwa Fast
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel",Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOQR2OPTbdBPQPAVgzxfrudFLe4Fs0zTOKIyqaIBpsYiPtgXkPzHcOMeRm_duJ4D5T8A&usqp=CAU",8XM
+http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel",JALWA
+http://221.120.204.4/JALWA-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SONU IPTV Music Channel",Dhoom Music
+http://103.205.133.48/hls/dhoommusic.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel",Zing BDIX
+http://103.205.133.48/hls/zing.m3u8
+#EXTINF:-1 group-title="SONU IPTV Music Channel" tvg-logo="https://w7.pngwing.com/pngs/986/104/png-transparent-9xm-9x-media-music-television-live-music-miscellaneous-television-text.png",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?token=RK
+#EXTINF:-1 group-title="SONU IPTV Music Channel" tvg-logo="https://w7.pngwing.com/pngs/986/104/png-transparent-9xm-9x-media-music-television-live-music-miscellaneous-television-text.png",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/23/%E0%A6%B9%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Hungama
+http://89.187.182.181:9090/KH_HIN_HUNGAMA/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/800px-Animax.svg.png",Animax
+http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png",Disney
+http://stream.tvtap.live:8081/live/us-disney.stream/chunks.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png",Disney Hind
+http://103.153.39.34:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png",Disney Hindi
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/640px-Logo_Disney_XD.svg.png",Disney xd
+http://stream.tvtap.live:8081/live/us-disneyxd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png",Nick
+http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/nickelodeon-sonic-bangla.png",Sonic
+http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Marvel_HQ_logo.jpg/240px-Marvel_HQ_logo.jpg",Marvel Hq
+https://feed.play.mv/live/10005200/niZoVrR2vD/1.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png",SONY-MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",SONY-SAB HD
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",STAR-MOVIES-HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Star Jalsha HD JP
+http://jupiter.bdcabletv.com/star_jalsha-sp/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Star Sports 1 HD Hindi JP
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Nat GEO Wild HD JP
+http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png",Star Jalsha Movies HD JP
+http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Zee Bangla HD JP
+http://jupiter.bdcabletv.com/ZeeBanglaHD/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png",SONY-MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://i.pinimg.com/originals/d0/04/95/d00495d07bb2f6e0856b9f8b92b9bf20.png",Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",AXN
+http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/display_665x429/public/images/story/2016/09/01/Sony%20SAB%20HD%20Logo-01.jpg?itok=GWfXqKuG",SONY-SAB HD
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg",STAR-MOVIES-HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/300?cb=20100511072544",Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/09/16/star.jpg",Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",HUM HD
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png",Sony HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Zee Tamil 4K
+http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Star Vijay 4K
+http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Zee Action
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Star Jalsha HD JP
+http://jupiter.bdcabletv.com/star_jalsha-sp/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Star Sports 1 HD Hindi JP
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Nat GEO Wild HD JP
+http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Zee Bangla HD JP
+http://jupiter.bdcabletv.com/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Manoroma HD
+http://14.199.164.20:4001/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",I love u
+http://14.199.164.20:4001/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Enterr 10 Bangla
+http://14.199.164.20:4001/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Enterr 10
+http://14.199.164.20:4001/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Middle East
+http://14.199.164.20:4001/play/a0k6/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",We
+http://14.199.164.20:4001/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Rongeen TV
+http://14.199.164.20:4001/play/a0m1/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Manoranjan Grand
+http://14.199.164.20:4001/play/a0m2/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Manoranjan TV
+http://14.199.164.20:4001/play/a0m3/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",WoW Cinema One
+http://14.199.164.20:4001/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Cinema TV India
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Dhamaal
+http://14.199.164.20:4001/play/a0n9/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Non Stop India
+http://14.199.164.20:4001/play/a0o1/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Dhinchak
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Show Box
+http://14.199.164.20:4001/play/a0o8/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV Indian",Dhinchaak 2
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Aljazeera
+https://feed.play.mv/live/1009/3Oe7G2E3rU/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",DISNEP HD INTERNATIONAL
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",DISNEP JUNIOR
+https://feed.play.mv/live/10005200/o6Yy0uDh9t/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",MARVEL HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",PARAMOUNT CHANNEL HD
+https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",TLC HD
+https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Sony BBC Earth HD
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",SMITHSONIAN CHANNEL HD
+https://feed.play.mv/live/1009/Ffcnij939j/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Animax HD
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",AND TV HD
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",CINEMA EUROPE HD
+https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",ZOOMOO HD
+https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Colors HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",NICK HD+
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Hits HD
+https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",CRIME INVESTIGATION
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",B4U Music
+https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Zee Cinema
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Zee TV HD
+https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",GEM
+https://feed.play.mv/live/1009/agmwLb8LUD/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Sony Sab
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",HUM Masala
+https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",HUM HD
+https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Sony Pix HD
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Sony HD
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Sony Max HD
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",Colors Cineplex HD
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",TEN1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",LIFE TIME
+https://feed.play.mv/live/10005200/q1QsHkGgzx/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",TV5MONDE
+https://feed.play.mv/live/1009/ffhFUWPv6j/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",SAUDI
+https://feed.play.mv/live/1009/gKb5lFwWql/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",SAUDI 2
+https://feed.play.mv/live/1009/Fnyy4wl9fn/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",SAUDI QURAN
+https://feed.play.mv/live/1009/Wz80eJ0B7o/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",TRACE
+https://feed.play.mv/live/1009/hz4T0QT8JX/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",LIFE NOW
+https://feed.play.mv/live/1009/BJIHSZ1BZ5/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",FRANCE 24
+https://feed.play.mv/live/1009/E8G2EHE8XS/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",AXN HD
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",RT WORLD HD
+https://feed.play.mv/live/10005200/MDKTZ190I8/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",SONY SIX HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",CBEEBIES HD
+https://feed.play.mv/live/10005200/xU1wA6Ugn9/1.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",TEN2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",FOOD NETWORK HD
+https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",UTV MOVIES
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",PULSE
+https://feed.play.mv/live/1009/u7Ia7Lul0n/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",HISTORY 2 CHANNEL HD
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",HISTORY CHANNEL HD
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",TRAVEL CHANNEL HD
+https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",OUTDOOR CHANNEL
+https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",LOVE NATURE 4K
+https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",ANIMAL PLANET HD
+https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",DISCOVERY SCIENCE
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",DISCOVERY TURBO
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",DISCOVERY SD
+https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",DISCOVERY HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD TV",TEN3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",T Sports HD
+http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",SATV HD
+http://indo51.gcdn.co/BANGLA-BD-SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",Ekushey TV
+http://indo51.gcdn.co/BANGLA-BD-EKUSHEYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",Deepto TV
+http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",Desh TV
+http://indo51.gcdn.co/BANGLA-BD-DESHTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",RTV
+http://indo51.gcdn.co/BANGLA-BD-RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",NTV
+http://indo51.gcdn.co/BANGLA-BD-NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",MyTV
+http://indo51.gcdn.co/BANGLA-BD-MYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",ATN News
+http://indo51.gcdn.co/BANGLA-BD-ATNNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",DBC News HD
+http://indo51.gcdn.co/BANGLA-BD-DBCNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",Maasranga TV HD
+http://indo51.gcdn.co/BANGLA-BD-MAASRANGATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",Asian TV HD
+http://indo51.gcdn.co/BANGLA-BD-ASIANTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",Nagorik HD
+http://indo51.gcdn.co/BANGLA-BD-NAGORIKTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",Banglavision HD
+http://indo51.gcdn.co/BANGLA-BD-BANGLAVISION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",Channel 24 HD
+http://indo51.gcdn.co/BANGLA-BD-CHANNEL24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",COLORS CINEPLEX HD
+http://indo51.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",STAR BHARAT HD
+http://indo51.gcdn.co/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",STAR PLUS HD
+http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",ZEE TV HD
+http://indo51.gcdn.co/hindi-ZEETVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",COLORS HD
+http://indo51.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",SONY HD
+http://indo51.gcdn.co/hindi-SONYHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",SONY MAX HD
+http://indo51.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",STAR GOLD HD
+http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",SONY SAB HD
+http://indo51.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",MTV BEATS HD
+http://indo51.gcdn.co/hindi-MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",MTV INDIA
+http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",B4U MUSIC
+http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",MUSIC INDIA
+http://indo51.gcdn.co/hindi-MUSICINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",SONY PAL
+http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",ZEE BOLLYWOOD
+http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",ZEE ANMOL
+http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",RISHTEY
+http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",SONY MAX 2
+http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",DD NATIONAL HD
+http://indo51.gcdn.co/hindi-UTVMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",BIG MAGIC
+http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV HD LIVE",E24
+http://indo51.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/dYLwOJA.png",CN HD+
+http://jupiter.bdcabletv.com/ENC-18/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/0aWOFB9.png",Colors HD
+http://jupiter.bdcabletv.com/ENC-8/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/2PQfcOh.png",Jalsha Movies
+http://jupiter.bdcabletv.com:80/JalshaMovies/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/rm7OMLk.png",Nick HD+
+http://jupiter.bdcabletv.com/ENC-15/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick JR.
+http://jupiter.bdcabletv.com/ENC-5/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/EpykY5A.png",Sony Aat
+http://jupiter.bdcabletv.com/SonyAath/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/ro7bedn.png",Sony Max HD
+http://jupiter.bdcabletv.com/SonyMax/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/6a7pWRE.png",Sony Six
+http://jupiter.bdcabletv.com/SonySix/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/aO2GTAR.jpg",Sony Ten 1
+http://jupiter.bdcabletv.com/ENC-19/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/rY69nFs.jpg",Sony Ten 2
+http://jupiter.bdcabletv.com/ENC-7/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/Uu2TekX.png",Star Bharat
+http://jupiter.bdcabletv.com/ENC-14/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/vGq343l.png",Star Gold HD
+http://jupiter.bdcabletv.com/ENC-10/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/0rFA2Cx.png",Star Movies HD
+http://jupiter.bdcabletv.com/ENC-17/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/AMhvwJB.png",Star Plus
+http://jupiter.bdcabletv.com/StarPlus/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/rfjCQoz.png",Star World BDC
+http://jupiter.bdcabletv.com/ENC-2/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/VcSPzlc.png",Star Sports 2
+http://jupiter.bdcabletv.com/ENC-4/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/RuxMR1X.png",Ten Sports BDC
+http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/AnkD43r.png",UTV Movies
+http://jupiter.bdcabletv.com/ENC-20/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/e5Ldh7e.png",Zee Bangla HD
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BEST" tvg-logo="https://i.imgur.com/9SYqIRU.png",Zee TV HD
+http://jupiter.bdcabletv.com/ENC-9/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BANGALI" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/06/28/abp_ananda_logo.jpg?itok=KK-SqYRw",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:-1 group-title="SONU IPTV BANGALI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 group-title="SONU IPTV BANGALI" tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png",Colors Bangla HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_SD-BANG-COLORS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26f6812ba48a2cfcbf1db217571cb1fd89017e3a0479dee6441491941c17d496da61a5992ce34f2760eccc4421fd34f899e39f853818ba54f0169f5b73dc53695118a2c538d51bd85c35b717cf6d68123&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 group-title="SONU IPTV BANGALI" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png",Zee Bangla HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-ZEEBANGLA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394155cad0d3fb6590a4994ad08d77346bc38e60e12e23d1e4c475b50b48f09950198e189a4b5a10ac74d1bd01ed0ad7cfe9fe35b93d1b3962912dfc9efa50066fb3a87e338845a44e7a813af5fa5d111e8be9802b&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 group-title="SONU IPTV BANGALI" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj",Enter 10 Bangla IDV
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV BANGALI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545",Star Jalsha Movies HD JP
+http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV BANGALI" tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png",Colors Bangla HD JP
+http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
+#EXTINF:-1 group-title="SONU IPTV BANGALI" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwu1es-yw4qa0XcEtfUdchI_53UWQn72tbTgMugg=s900-c-k-c0x00ffffff-no-rj",Khusboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV BANGALI",R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold_540p/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV BANGALI",News Time Bangla
+http://idvd.multitvsolution.com/idvo/newstimebangla_540p/index.m3u8
+#EXTINF:-1 group-title="SONU IPTV ALL SONY",Sony Pix HD
+http://ahaohoo.com/.1/tv1/play.php?id=2700&e=.m3u8
+#EXTINF:-1 group-title="SONU IPTV ALL SONY",Sony HD
+http://ahaohoo.com/.1/tv1/play.php?id=2689&e=.m3u8
+#EXTINF:-1 group-title="SONU IPTV ALL SONY",Sony Sab SD
+http://ahaohoo.com/.1/tv1/play.php?id=2693&e=.m3u8
+#EXTINF:-1 group-title="SONU IPTV ALL SONY",Rishtey Cineplex
+http://ahaohoo.com/.1/tv1/play.php?id=2686&e=.m3u8
+#EXTINF:-1 group-title="SONU IPTV ALL SONY",Sony Pal
+http://ahaohoo.com/.1/tv1/play.php?id=2698&e=.m3u8
+#EXTINF:-1 group-title="SONU IPTV ALL SONY",Zee Kerelam HD
+http://ahaohoo.com/.1/tv1/play.php?id=2340&e=.m3u8
+#EXTINF:-1 group-title="SONU IPTV ALL SONY",Udaya HD
+http://ahaohoo.com/.1/tv1/play.php?id=2339&e=.m3u8
+#EXTINF:-1 group-title="SONU IPTV ALL SONY",Surya HD
+http://ahaohoo.com/.1/tv1/play.php?id=2338&e=.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",& Pictures
+http://watchindia.net:8880/live/60275/20486/818.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",& Pictures HD
+http://watchindia.net:8880/live/60275/20486/783.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",& TV HD
+http://watchindia.net:8880/live/60275/20486/782.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",& Flix HD
+http://watchindia.net:8880/live/60275/20486/2088.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",&xplor HD
+http://watchindia.net:8880/live/60275/20486/2204.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony BBC Earth HD
+http://watchindia.net:8880/live/60275/20486/789.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony TV HD
+http://watchindia.net:8880/live/60275/20486/1969.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony TV HD 2
+http://watchindia.net:8880/live/60275/20486/2141.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony TV HD UK
+http://watchindia.net:8880/live/60275/20486/2117.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Max HD
+http://watchindia.net:8880/live/60275/20486/788.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Max 2
+http://watchindia.net:8880/live/60275/20486/2024.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Pal
+http://watchindia.net:8880/live/60275/20486/812.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Sab HD
+http://watchindia.net:8880/live/60275/20486/781.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Sab UK
+http://watchindia.net:8880/live/60275/20486/2189.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Bharat HD
+http://watchindia.net:8880/live/60275/20486/780.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Plus HD
+http://watchindia.net:8880/live/60275/20486/1924.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Gold India HD
+http://watchindia.net:8880/live/60275/20486/785.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Gold Select HD
+http://watchindia.net:8880/live/60275/20486/784.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Movies HD
+http://watchindia.net:8880/live/60275/20486/2080.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star World HD
+http://watchindia.net:8880/live/60275/20486/2191.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",HBO
+http://watchindia.net:8880/live/60275/20486/2081.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee TV HD
+http://watchindia.net:8880/live/60275/20486/1970.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee TV HD USA
+http://watchindia.net:8880/live/60275/20486/1971.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Action
+http://watchindia.net:8880/live/60275/20486/821.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Anmol
+http://watchindia.net:8880/live/60275/20486/813.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Anmol Cinema
+http://watchindia.net:8880/live/60275/20486/820.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Bollywood
+http://watchindia.net:8880/live/60275/20486/822.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Cinema HD
+http://watchindia.net:8880/live/60275/20486/787.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Classic
+http://watchindia.net:8880/live/60275/20486/802.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee News
+http://watchindia.net:8880/live/60275/20486/832.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee World
+http://watchindia.net:8880/live/60275/20486/806.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zoom
+http://watchindia.net:8880/live/60275/20486/842.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Maa HD 1
+http://watchindia.net:8880/live/60275/20486/933.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Maa HD 2
+http://watchindia.net:8880/live/60275/20486/2168.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Maa Movies HD
+http://watchindia.net:8880/live/60275/20486/934.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",10 TV
+http://watchindia.net:8880/live/60275/20486/981.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",92 News
+http://watchindia.net:8880/live/60275/20486/1060.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",92 News UK
+http://watchindia.net:8880/live/60275/20486/1050.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",9X Jalwa
+http://watchindia.net:8880/live/60275/20486/828.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",9X Jhakaas
+http://watchindia.net:8880/live/60275/20486/926.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",9XM Music
+http://watchindia.net:8880/live/60275/20486/827.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",A Plus
+http://watchindia.net:8880/live/60275/20486/1021.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Aaj News
+http://watchindia.net:8880/live/60275/20486/1051.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Dilli Aaj Tak
+http://watchindia.net:8880/live/60275/20486/836.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Aaj Tak HD
+http://watchindia.net:8880/live/60275/20486/807.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Abbtakk News
+http://watchindia.net:8880/live/60275/20486/1062.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ABN News
+http://watchindia.net:8880/live/60275/20486/980.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ABP Majha
+http://watchindia.net:8880/live/60275/20486/925.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ABP News
+http://watchindia.net:8880/live/60275/20486/833.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Vijay HD
+http://watchindia.net:8880/live/60275/20486/846.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Vijay HD 2
+http://watchindia.net:8880/live/60275/20486/2140.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Vijay Super
+http://watchindia.net:8880/live/60275/20486/2190.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sun TV HD
+http://watchindia.net:8880/live/60275/20486/843.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sun TV HD USA
+http://watchindia.net:8880/live/60275/20486/2089.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sun Life
+http://watchindia.net:8880/live/60275/20486/847.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sun Music HD
+http://watchindia.net:8880/live/60275/20486/844.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sun News
+http://watchindia.net:8880/live/60275/20486/869.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sirippoli TV
+http://watchindia.net:8880/live/60275/20486/2084.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Adithya TV
+http://watchindia.net:8880/live/60275/20486/855.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Angel TV HD
+http://watchindia.net:8880/live/60275/20486/862.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",App News
+http://watchindia.net:8880/live/60275/20486/1058.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Aruj Tv
+http://watchindia.net:8880/live/60275/20486/1035.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Ary Digital
+http://watchindia.net:8880/live/60275/20486/1018.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Ary News
+http://watchindia.net:8880/live/60275/20486/1042.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Ary World UK
+http://watchindia.net:8880/live/60275/20486/1041.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Ary Zindagi
+http://watchindia.net:8880/live/60275/20486/1025.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet HD 1
+http://watchindia.net:8880/live/60275/20486/276.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet HD 2
+http://watchindia.net:8880/live/60275/20486/2216.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet HD USA
+http://watchindia.net:8880/live/60275/20486/1300.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet Movies 1
+http://watchindia.net:8880/live/60275/20486/278.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet Movies 2
+http://watchindia.net:8880/live/60275/20486/2217.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet News 1
+http://watchindia.net:8880/live/60275/20486/268.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet News 2
+http://watchindia.net:8880/live/60275/20486/2035.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet Plus 1
+http://watchindia.net:8880/live/60275/20486/277.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Asianet Plus 2
+http://watchindia.net:8880/live/60275/20486/2240.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Surya TV HD 1
+http://watchindia.net:8880/live/60275/20486/279.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Surya TV HD 2
+http://watchindia.net:8880/live/60275/20486/2261.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Surya TV HD USA
+http://watchindia.net:8880/live/60275/20486/1938.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Surya Comedy
+http://watchindia.net:8880/live/60275/20486/299.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Surya Movies
+http://watchindia.net:8880/live/60275/20486/298.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Surya Music
+http://watchindia.net:8880/live/60275/20486/285.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Keralam
+http://watchindia.net:8880/live/60275/20486/287.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",24 News 1
+http://watchindia.net:8880/live/60275/20486/1064.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",24 News 2
+http://watchindia.net:8880/live/60275/20486/2082.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Amrita
+http://watchindia.net:8880/live/60275/20486/284.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Flowers TV
+http://watchindia.net:8880/live/60275/20486/2.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Flowers USA
+http://watchindia.net:8880/live/60275/20486/2184.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Garshom TV
+http://watchindia.net:8880/live/60275/20486/1291.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Goodness TV
+http://watchindia.net:8880/live/60275/20486/2234.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",B4U Plus
+http://watchindia.net:8880/live/60275/20486/823.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",B4U Music
+http://watchindia.net:8880/live/60275/20486/2113.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Bhakti TV
+http://watchindia.net:8880/live/60275/20486/977.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Bol Tv News
+http://watchindia.net:8880/live/60275/20486/1052.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Bollywood BoxOffice HD
+http://watchindia.net:8880/live/60275/20486/819.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Bollywood Dilse HD
+http://watchindia.net:8880/live/60275/20486/795.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Bollywood Premier HD
+http://watchindia.net:8880/live/60275/20486/800.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Bollywood Pop HD
+http://watchindia.net:8880/live/60275/20486/797.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kadak Hits HD
+http://watchindia.net:8880/live/60275/20486/798.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors Tamil
+http://watchindia.net:8880/live/60275/20486/2083.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Captain News
+http://watchindia.net:8880/live/60275/20486/878.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Captain TV
+http://watchindia.net:8880/live/60275/20486/876.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Channel 44 UK
+http://watchindia.net:8880/live/60275/20486/1040.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Cineplex HD
+http://watchindia.net:8880/live/60275/20486/803.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors HD Marathi
+http://watchindia.net:8880/live/60275/20486/912.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors HD Kannada
+http://watchindia.net:8880/live/60275/20486/982.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors TV HD
+http://watchindia.net:8880/live/60275/20486/801.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors TV HD UK
+http://watchindia.net:8880/live/60275/20486/2187.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors Rishtey Asia
+http://watchindia.net:8880/live/60275/20486/830.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors Super HD
+http://watchindia.net:8880/live/60275/20486/983.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Discovery Tamil
+http://watchindia.net:8880/live/60275/20486/2085.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Dan News
+http://watchindia.net:8880/live/60275/20486/859.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Dawn News
+http://watchindia.net:8880/live/60275/20486/1044.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",DD Sahyadri
+http://watchindia.net:8880/live/60275/20486/927.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",DD Malayalam
+http://watchindia.net:8880/live/60275/20486/303.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Discovery Channel Hindi
+http://watchindia.net:8880/live/60275/20486/841.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Discovery World HD
+http://watchindia.net:8880/live/60275/20486/793.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Duniya News UK
+http://watchindia.net:8880/live/60275/20486/1038.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Dunya News
+http://watchindia.net:8880/live/60275/20486/1061.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",E24
+http://watchindia.net:8880/live/60275/20486/829.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Epic HD
+http://watchindia.net:8880/live/60275/20486/794.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ETV
+http://watchindia.net:8880/live/60275/20486/936.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ETV HD
+http://watchindia.net:8880/live/60275/20486/2203.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ETV Life
+http://watchindia.net:8880/live/60275/20486/938.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ETV Plus
+http://watchindia.net:8880/live/60275/20486/937.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Express Entertainment
+http://watchindia.net:8880/live/60275/20486/1029.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Fakt
+http://watchindia.net:8880/live/60275/20486/924.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Gemini Comedy
+http://watchindia.net:8880/live/60275/20486/971.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Gemini Life HD
+http://watchindia.net:8880/live/60275/20486/931.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Gemini Movies HD
+http://watchindia.net:8880/live/60275/20486/930.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Gemini Music HD
+http://watchindia.net:8880/live/60275/20486/929.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Gemini TV
+http://watchindia.net:8880/live/60275/20486/928.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Geo Entertainment
+http://watchindia.net:8880/live/60275/20486/2267.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Geo Kahani
+http://watchindia.net:8880/live/60275/20486/2268.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Geo Super
+http://watchindia.net:8880/live/60275/20486/1016.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Geo News UK
+http://watchindia.net:8880/live/60275/20486/1037.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Geo Tez
+http://watchindia.net:8880/live/60275/20486/1043.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Gnn News
+http://watchindia.net:8880/live/60275/20486/1045.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Hum Masala UK
+http://watchindia.net:8880/live/60275/20486/1023.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Hum Sitaray
+http://watchindia.net:8880/live/60275/20486/1024.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Hum TV HD
+http://watchindia.net:8880/live/60275/20486/1022.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Hum Tv UK
+http://watchindia.net:8880/live/60275/20486/1019.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",India Today TV
+http://watchindia.net:8880/live/60275/20486/835.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Jaihind
+http://watchindia.net:8880/live/60275/20486/293.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Janam TV
+http://watchindia.net:8880/live/60275/20486/309.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Jaya Max
+http://watchindia.net:8880/live/60275/20486/852.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Jaya Movie
+http://watchindia.net:8880/live/60275/20486/849.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Jaya Plus
+http://watchindia.net:8880/live/60275/20486/850.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Jaya TV HD
+http://watchindia.net:8880/live/60275/20486/851.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Jeevan TV
+http://watchindia.net:8880/live/60275/20486/300.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kappa TV
+http://watchindia.net:8880/live/60275/20486/1762.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kairali TV
+http://watchindia.net:8880/live/60275/20486/307.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kairali News
+http://watchindia.net:8880/live/60275/20486/308.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kairali We
+http://watchindia.net:8880/live/60275/20486/1761.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Isaiaruvi TV
+http://watchindia.net:8880/live/60275/20486/2149.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kalaignar TV
+http://watchindia.net:8880/live/60275/20486/2148.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kaumudy TV
+http://watchindia.net:8880/live/60275/20486/305.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kay 2
+http://watchindia.net:8880/live/60275/20486/1027.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Khyber News
+http://watchindia.net:8880/live/60275/20486/1054.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Khyber Tv
+http://watchindia.net:8880/live/60275/20486/1034.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kochu TV
+http://watchindia.net:8880/live/60275/20486/290.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",KTV HD
+http://watchindia.net:8880/live/60275/20486/845.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Madha TV
+http://watchindia.net:8880/live/60275/20486/875.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Makkal TV
+http://watchindia.net:8880/live/60275/20486/871.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Manorama News
+http://watchindia.net:8880/live/60275/20486/281.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Manoranjan Movies
+http://watchindia.net:8880/live/60275/20486/804.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Mastiii
+http://watchindia.net:8880/live/60275/20486/826.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Mathrubhumi News
+http://watchindia.net:8880/live/60275/20486/304.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Mazhavil Manorama HD 1
+http://watchindia.net:8880/live/60275/20486/280.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Mazhavil Manorama HD 2
+http://watchindia.net:8880/live/60275/20486/2231.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Media One
+http://watchindia.net:8880/live/60275/20486/302.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Minhaj Tv
+http://watchindia.net:8880/live/60275/20486/1056.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",MTV Hindi
+http://watchindia.net:8880/live/60275/20486/825.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",MTV Beats HD
+http://watchindia.net:8880/live/60275/20486/786.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Murasu TV
+http://watchindia.net:8880/live/60275/20486/880.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Nambikkai TV
+http://watchindia.net:8880/live/60275/20486/856.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",National Geographic HD
+http://watchindia.net:8880/live/60275/20486/790.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",NDTV News
+http://watchindia.net:8880/live/60275/20486/831.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",NDTV Profit
+http://watchindia.net:8880/live/60275/20486/837.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",News 18
+http://watchindia.net:8880/live/60275/20486/301.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",News 18
+http://watchindia.net:8880/live/60275/20486/873.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",News 18 Lokmat
+http://watchindia.net:8880/live/60275/20486/922.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",News 7
+http://watchindia.net:8880/live/60275/20486/867.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",News Nation
+http://watchindia.net:8880/live/60275/20486/838.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Peace TV
+http://watchindia.net:8880/live/60275/20486/1063.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Powervision TV
+http://watchindia.net:8880/live/60275/20486/1290.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Nick Tamil
+http://watchindia.net:8880/live/60275/20486/2181.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Peppers
+http://watchindia.net:8880/live/60275/20486/870.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Polimer TV
+http://watchindia.net:8880/live/60275/20486/2147.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Polimer News
+http://watchindia.net:8880/live/60275/20486/877.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Prajaa TV
+http://watchindia.net:8880/live/60275/20486/997.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Ptv Global UK
+http://watchindia.net:8880/live/60275/20486/1032.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Ptv News UK
+http://watchindia.net:8880/live/60275/20486/1053.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Public News
+http://watchindia.net:8880/live/60275/20486/1059.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Public TV
+http://watchindia.net:8880/live/60275/20486/996.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Puthiya Thalaimurai
+http://watchindia.net:8880/live/60275/20486/879.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Puthuyugam TV
+http://watchindia.net:8880/live/60275/20486/865.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj Digital Plus
+http://watchindia.net:8880/live/60275/20486/857.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj Musix
+http://watchindia.net:8880/live/60275/20486/286.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj Musix Kannada
+http://watchindia.net:8880/live/60275/20486/993.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj Musix Tamil
+http://watchindia.net:8880/live/60275/20486/861.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj Musix Telugu
+http://watchindia.net:8880/live/60275/20486/957.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj News Telugu
+http://watchindia.net:8880/live/60275/20486/956.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj News Kannada
+http://watchindia.net:8880/live/60275/20486/995.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj News 24x7
+http://watchindia.net:8880/live/60275/20486/853.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj News
+http://watchindia.net:8880/live/60275/20486/291.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Raj TV
+http://watchindia.net:8880/live/60275/20486/854.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Reporter TV
+http://watchindia.net:8880/live/60275/20486/306.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Nick Hindi
+http://watchindia.net:8880/live/60275/20486/2182.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Nick HD Plus
+http://watchindia.net:8880/live/60275/20486/2237.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Republic TV News
+http://watchindia.net:8880/live/60275/20486/815.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sakshi TV
+http://watchindia.net:8880/live/60275/20486/955.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Harvest TV
+http://watchindia.net:8880/live/60275/20486/1303.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Safari TV
+http://watchindia.net:8880/live/60275/20486/1301.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Shalom TV
+http://watchindia.net:8880/live/60275/20486/288.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Marathi
+http://watchindia.net:8880/live/60275/20486/919.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Stage Darama
+http://watchindia.net:8880/live/60275/20486/1031.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Star Pravah HD
+http://watchindia.net:8880/live/60275/20486/918.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Suvarna HD
+http://watchindia.net:8880/live/60275/20486/985.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Suvarna News
+http://watchindia.net:8880/live/60275/20486/990.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Suvarna Plus HD
+http://watchindia.net:8880/live/60275/20486/984.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sri Sankara TV
+http://watchindia.net:8880/live/60275/20486/2164.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Tamil Vision TV
+http://watchindia.net:8880/live/60275/20486/863.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Thanthi TV
+http://watchindia.net:8880/live/60275/20486/860.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Thanthi TV
+http://watchindia.net:8880/live/60275/20486/947.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Times Now
+http://watchindia.net:8880/live/60275/20486/839.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TLC Hindi
+http://watchindia.net:8880/live/60275/20486/840.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Travel XP
+http://watchindia.net:8880/live/60275/20486/872.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TravelXP HD
+http://watchindia.net:8880/live/60275/20486/792.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Tv One
+http://watchindia.net:8880/live/60275/20486/1028.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TV5 News
+http://watchindia.net:8880/live/60275/20486/987.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TV9
+http://watchindia.net:8880/live/60275/20486/917.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TV9
+http://watchindia.net:8880/live/60275/20486/945.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TV9 News
+http://watchindia.net:8880/live/60275/20486/986.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TV9 News
+http://watchindia.net:8880/live/60275/20486/834.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Udaya HD
+http://watchindia.net:8880/live/60275/20486/1002.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Udaya Comedy
+http://watchindia.net:8880/live/60275/20486/988.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Udaya Movies
+http://watchindia.net:8880/live/60275/20486/1004.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Udaya Music
+http://watchindia.net:8880/live/60275/20486/1003.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Urdu 1
+http://watchindia.net:8880/live/60275/20486/1020.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",UTV Action
+http://watchindia.net:8880/live/60275/20486/805.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",UTV HD
+http://watchindia.net:8880/live/60275/20486/811.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",V6 News
+http://watchindia.net:8880/live/60275/20486/943.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Vasanth TV
+http://watchindia.net:8880/live/60275/20486/858.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Vendhar TV
+http://watchindia.net:8880/live/60275/20486/2146.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Vissa TV
+http://watchindia.net:8880/live/60275/20486/942.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Waqt News
+http://watchindia.net:8880/live/60275/20486/1048.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Wion News
+http://watchindia.net:8880/live/60275/20486/816.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Tamil
+http://watchindia.net:8880/live/60275/20486/887.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Telugu
+http://watchindia.net:8880/live/60275/20486/940.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Kannada
+http://watchindia.net:8880/live/60275/20486/1001.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee 24 Taas
+http://watchindia.net:8880/live/60275/20486/916.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Cinemalu
+http://watchindia.net:8880/live/60275/20486/941.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee HD Marathi
+http://watchindia.net:8880/live/60275/20486/913.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Talkies HD
+http://watchindia.net:8880/live/60275/20486/914.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Yuva
+http://watchindia.net:8880/live/60275/20486/915.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Saam
+http://watchindia.net:8880/live/60275/20486/921.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Pix HD
+http://watchindia.net:8880/live/60275/20486/2101.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Movies Now HD
+http://watchindia.net:8880/live/60275/20486/2102.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",& Prive HD
+http://watchindia.net:8880/live/60275/20486/2103.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors Gujarati
+http://watchindia.net:8880/live/60275/20486/1006.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TV9 Gujarati
+http://watchindia.net:8880/live/60275/20486/1007.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee 24 Kalak
+http://watchindia.net:8880/live/60275/20486/1008.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",VTV News
+http://watchindia.net:8880/live/60275/20486/1009.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sandesh News
+http://watchindia.net:8880/live/60275/20486/1011.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ABP Asmita HD
+http://watchindia.net:8880/live/60275/20486/1012.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Lakshya TV HD
+http://watchindia.net:8880/live/60275/20486/1014.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",DD Girnar
+http://watchindia.net:8880/live/60275/20486/1918.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",CNBC Bajar
+http://watchindia.net:8880/live/60275/20486/1919.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kartavya TV
+http://watchindia.net:8880/live/60275/20486/1920.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",GSTV
+http://watchindia.net:8880/live/60275/20486/1922.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Fox News
+http://watchindia.net:8880/live/60275/20486/2057.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",CNN
+http://watchindia.net:8880/live/60275/20486/2058.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",MSNBC
+http://watchindia.net:8880/live/60275/20486/2060.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Newsmax TV
+http://watchindia.net:8880/live/60275/20486/2202.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",CNBC
+http://watchindia.net:8880/live/60275/20486/2053.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",CBS
+http://watchindia.net:8880/live/60275/20486/2121.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ABC
+http://watchindia.net:8880/live/60275/20486/2120.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",NBC
+http://watchindia.net:8880/live/60275/20486/2122.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",NBC Sports
+http://watchindia.net:8880/live/60275/20486/2266.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Discovery Channel
+http://watchindia.net:8880/live/60275/20486/2036.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Discovery Life
+http://watchindia.net:8880/live/60275/20486/2124.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",National Geographic
+http://watchindia.net:8880/live/60275/20486/2037.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Nat Geo Wild
+http://watchindia.net:8880/live/60275/20486/2047.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Animal Planet
+http://watchindia.net:8880/live/60275/20486/2039.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",The Weather Channel
+http://watchindia.net:8880/live/60275/20486/2042.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",A&E Network
+http://watchindia.net:8880/live/60275/20486/2044.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",BBC America
+http://watchindia.net:8880/live/60275/20486/2055.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ESPN
+http://watchindia.net:8880/live/60275/20486/2161.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",NFL Network
+http://watchindia.net:8880/live/60275/20486/2165.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",NFL RedZone
+http://watchindia.net:8880/live/60275/20486/2160.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Cinemax
+http://watchindia.net:8880/live/60275/20486/2065.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Comedy Central
+http://watchindia.net:8880/live/60275/20486/2056.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Cartoon Network
+http://watchindia.net:8880/live/60275/20486/2052.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Nickelodeon
+http://watchindia.net:8880/live/60275/20486/2049.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Nicktoons
+http://watchindia.net:8880/live/60275/20486/2064.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Nick Jr.
+http://watchindia.net:8880/live/60275/20486/2059.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Disney Channel
+http://watchindia.net:8880/live/60275/20486/2046.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Disney XD
+http://watchindia.net:8880/live/60275/20486/2066.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Disney Jr.
+http://watchindia.net:8880/live/60275/20486/2105.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Boomerang
+http://watchindia.net:8880/live/60275/20486/1295.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",History
+http://watchindia.net:8880/live/60275/20486/2038.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",HGTV
+http://watchindia.net:8880/live/60275/20486/2118.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TBS
+http://watchindia.net:8880/live/60275/20486/2050.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TNT
+http://watchindia.net:8880/live/60275/20486/2051.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",TLC
+http://watchindia.net:8880/live/60275/20486/2139.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Food Network
+http://watchindia.net:8880/live/60275/20486/2045.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Fox HD
+http://watchindia.net:8880/live/60275/20486/2183.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Fox Business
+http://watchindia.net:8880/live/60275/20486/2201.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Freeform
+http://watchindia.net:8880/live/60275/20486/2137.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",FX
+http://watchindia.net:8880/live/60275/20486/2136.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Showtime
+http://watchindia.net:8880/live/60275/20486/2054.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Syfy
+http://watchindia.net:8880/live/60275/20486/2127.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",AMC
+http://watchindia.net:8880/live/60275/20486/2043.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",MTV
+http://watchindia.net:8880/live/60275/20486/2062.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",BET
+http://watchindia.net:8880/live/60275/20486/2063.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Outdoor Channel
+http://watchindia.net:8880/live/60275/20486/2119.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Travel Channel
+http://watchindia.net:8880/live/60275/20486/2123.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",VH1
+http://watchindia.net:8880/live/60275/20486/2185.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Peppa Pig
+http://watchindia.net:8880/live/60275/20486/1298.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Yay
+http://watchindia.net:8880/live/60275/20486/2104.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sony Yay Telugu
+http://watchindia.net:8880/live/60275/20486/2126.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Paw Patrol
+http://watchindia.net:8880/live/60275/20486/1297.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Thirai
+http://watchindia.net:8880/live/60275/20486/2142.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Aastha TV UK
+http://watchindia.net:8880/live/60275/20486/2150.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sanskar TV
+http://watchindia.net:8880/live/60275/20486/2151.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Premiere
+http://watchindia.net:8880/live/60275/20486/2169.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Select
+http://watchindia.net:8880/live/60275/20486/2170.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Hits
+http://watchindia.net:8880/live/60275/20486/2171.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Greats
+http://watchindia.net:8880/live/60275/20486/2172.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Family
+http://watchindia.net:8880/live/60275/20486/2173.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Disney
+http://watchindia.net:8880/live/60275/20486/2175.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Action
+http://watchindia.net:8880/live/60275/20486/2176.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Comedy
+http://watchindia.net:8880/live/60275/20486/2177.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Thriller
+http://watchindia.net:8880/live/60275/20486/2178.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Drama
+http://watchindia.net:8880/live/60275/20486/2179.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Sky Cinema Sci-Fi/Horror
+http://watchindia.net:8880/live/60275/20486/2180.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Romedy Now
+http://watchindia.net:8880/live/60275/20486/2188.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",5AAB TV
+http://watchindia.net:8880/live/60275/20486/2195.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Alpha
+http://watchindia.net:8880/live/60275/20486/2196.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Prime Asia TV
+http://watchindia.net:8880/live/60275/20486/2197.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Bollywood Bol Haddipa HD
+http://watchindia.net:8880/live/60275/20486/796.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",PTC IN
+http://watchindia.net:8880/live/60275/20486/1941.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",PTC Chakde
+http://watchindia.net:8880/live/60275/20486/1944.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",PTC Music
+http://watchindia.net:8880/live/60275/20486/1945.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",PTC Simran
+http://watchindia.net:8880/live/60275/20486/1946.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",DD Punjabi
+http://watchindia.net:8880/live/60275/20486/1947.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",MH One Music
+http://watchindia.net:8880/live/60275/20486/1949.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Zee Punjabi
+http://watchindia.net:8880/live/60275/20486/1951.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",ABP Sanjha
+http://watchindia.net:8880/live/60275/20486/1953.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kalaignar News
+http://watchindia.net:8880/live/60275/20486/874.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Malayalam Box Office
+http://watchindia.net:8880/live/60275/20486/2156.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Bollywood Box Office
+http://watchindia.net:8880/live/60275/20486/2157.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Kollywood Box Office
+http://watchindia.net:8880/live/60275/20486/2152.m3u8
+#EXTINF:-1 group-title="SON  IPTV WATCH INDIA TV",Colors TV HD 2
+http://watchindia.net:8880/live/60275/20486/2264.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg",Star Movies HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png",Sony Pix HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV" tvg-logo="https://nettv.com.np/storage/app/uploads/public/5da/558/fae/5da558fae6acf376045704.jpg",Colors Infinity HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-world.png",Star World HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_STARWORLD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",&Prive HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",&flix HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",Fox Life HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",Zee Cafe HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_ZEECAFE/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png",Sony Pix HD
+https://is.gd/ObFrpt
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",HBO Signature
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",TLC
+http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",TLC HD
+http://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",TV5 Monde
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",Cinemax
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8?Live-TV™
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",GEO News
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",DW TV
+https://dwstream4-lh.akamaihd.net:443/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",AXN New
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",CNN Live
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="SON  IPTV ENGLISH TV",Fox Life SD
+http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="SON  IPTV BANGLADESH LIV",Bollywood One
+http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/60275/20486/1072.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/60275/20486/2167.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports 1 HD 1
+http://watchindia.net:8880/live/60275/20486/808.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports 1 HD 2
+http://watchindia.net:8880/live/60275/20486/2162.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports 1 HD 3
+http://watchindia.net:8880/live/60275/20486/2186.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports 1 HD 4
+http://watchindia.net:8880/live/60275/20486/2232.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports 2 HD 1
+http://watchindia.net:8880/live/60275/20486/1069.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports 2 HD 2
+http://watchindia.net:8880/live/60275/20486/2163.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports Select 1 HD
+http://watchindia.net:8880/live/60275/20486/1070.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Star Sports Select 2 HD
+http://watchindia.net:8880/live/60275/20486/1071.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sky Sports Main Event
+http://watchindia.net:8880/live/60275/20486/2091.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sky Sports Cricket 2
+http://watchindia.net:8880/live/60275/20486/2143.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sky Sports Football
+http://watchindia.net:8880/live/60275/20486/2093.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sky Sports F1
+http://watchindia.net:8880/live/60275/20486/2094.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sky Sports Arena
+http://watchindia.net:8880/live/60275/20486/2095.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sky Sports Golf
+http://watchindia.net:8880/live/60275/20486/2096.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sony Six HD 1
+http://watchindia.net:8880/live/60275/20486/1763.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sony Six HD 2
+http://watchindia.net:8880/live/60275/20486/2144.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sony Ten 1 HD 1
+http://watchindia.net:8880/live/60275/20486/1756.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/60275/20486/2215.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sony Ten 2 HD
+http://watchindia.net:8880/live/60275/20486/1757.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sony Ten 3 HD
+http://watchindia.net:8880/live/60275/20486/1758.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Ten Sports
+http://watchindia.net:8880/live/60275/20486/1068.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Willow HD
+http://watchindia.net:8880/live/60275/20486/1067.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Willow HD 2
+http://watchindia.net:8880/live/60275/20486/2145.m3u8
+#EXTINF:-1 group-title="SON  IPTV ALL INDIA",Sky Sports Premier League
+http://watchindia.net:8880/live/60275/20486/2092.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png",ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
+#EXTINF:-1  tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1  tvg-logo="noimage.png",BeritaHK
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png",Bloomberg TV HD
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1  tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073135741874.png",BNC
+http://redbox-blacknewschannel-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xBMXe2j4JYs0QtSblSyE6WmiFCVMgpeMSA&usqp=CAU",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.pngkit.com/png/detail/215-2151705_cbs-news-png-vector-transparent-stock-cbs-news.png",CBS NEWS
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/582/428/png-clipart-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-miscellaneous-television.png",Cctv5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1  tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png",CCTV5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/44_144.png",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/2BXCg0x.jpg",CNN HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13",Euronews
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1  tvg-logo="https://www.bark.us/blog/wp-content/uploads/2019/04/Fox-news-logo.png",Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png",France24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
+#EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg",Makkah TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-1  tvg-logo="https://img1.pnghut.com/t/11/18/22/zUAWE3Xswh/live-television-medina-dome-of-the-rock-great-mosque-mecca.jpg",Medina TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png",Sky News HD
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1  tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
